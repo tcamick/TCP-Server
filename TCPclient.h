@@ -8,8 +8,6 @@
  
  /*
  * TCPclient.h
- * Systems and Networks II
- * Project 1
  *
  * This file describes the functions to be implemented by the TCPclient.
  * You may also implement any auxillary functions you deem necessary.
